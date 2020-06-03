@@ -19,3 +19,6 @@ pip install numpy
 ```
 pip install matplotlib
 ```
+
+## The Data
+The data used in this model is [fashion_mnist](https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/), which is coming when you install the keras. And is present in keras.datasets.fashion_mnist
